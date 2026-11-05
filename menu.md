@@ -3,5 +3,8 @@
     - Orange
     - Pomme
 
-- AFTERWEOK MENU
+- AFTERWORK MENU
     - Biere 10 euros
+
+- VIN
+    -   Bordeaux
